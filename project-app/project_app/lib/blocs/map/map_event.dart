@@ -1,3 +1,4 @@
+///Hola Mundo
 part of 'map_bloc.dart';
 
 /// Clase base para todos los eventos del `MapBloc`.

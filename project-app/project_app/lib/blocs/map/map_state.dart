@@ -1,3 +1,4 @@
+///Hola Mundo
 part of 'map_bloc.dart';
 
 /// Representa el estado del mapa en el `MapBloc`.

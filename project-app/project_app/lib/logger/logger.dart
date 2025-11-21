@@ -1,3 +1,4 @@
+//Hola gente
 import 'package:logger/logger.dart';
 
 /// Instancia global del logger para registrar mensajes en toda la aplicación.
